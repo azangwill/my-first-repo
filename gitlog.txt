@@ -1,0 +1,17 @@
+commit f5be0965adde8ec613f57dd7a45f92c6b87d04ac
+Author: azangwill <aliza.zangwill@gmail.com>
+Date:   Sun Nov 26 19:32:51 2017 -0800
+
+    added gitignore
+
+commit 3ff3d9e175d1528cd44f8ec2c8b3dba8f8d8e736
+Author: azangwill <aliza.zangwill@gmail.com>
+Date:   Sun Nov 26 19:17:05 2017 -0800
+
+    added two files
+
+commit a2a402ea02dbe60f4ace7a00949cfb42751f2b1e
+Author: azangwill <aliza.zangwill@gmail.com>
+Date:   Sun Nov 26 19:12:21 2017 -0800
+
+    added readme.txt
